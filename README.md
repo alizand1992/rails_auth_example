@@ -2,9 +2,9 @@
 This application is meant to demonstrate API authentication via React and Rails using secure HTTP cookies rather than JWT.
 
 ## Requirements
-Ruby 3
-Bundler
-Node 16+ 
+- Ruby 3
+- Bundler
+- Node 16+ 
 
 ## Installation
 1. Fork this repo or simply clone it
